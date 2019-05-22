@@ -19,6 +19,8 @@ public class Week3 {
         student s1=new student();
         s1.setFirstName("Dipal");
         s1.setId(20);
+        
+        System.out.println("see you agian...!");
     }
     
 }
