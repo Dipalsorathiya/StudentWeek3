@@ -12,7 +12,7 @@ package week3;
 public class student {
     private int Id;
     private String firstName;
-
+    private int macCourse;
     /**
      * @return the Id
      */
