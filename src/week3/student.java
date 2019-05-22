@@ -12,7 +12,7 @@ package week3;
 public class student {
     private int Id;
     private String firstName;
-    private int macCourse;
+    private int maxCourse;
     /**
      * @return the Id
      */
